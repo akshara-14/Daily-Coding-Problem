@@ -1,2 +1,0 @@
- code: ");
-    scanf("%c",&x
